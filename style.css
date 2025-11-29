@@ -68,7 +68,7 @@ body {
     }
 }
 
-@media (max-width: 480px){
+@media (max-width: 10000px){
     .box{
         /* background-color: red; */
         width: 100%;
